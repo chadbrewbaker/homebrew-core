@@ -69,6 +69,7 @@ class Llvm < Formula
       lldb
       mlir
       polly
+      bolt
     ]
     runtimes = %w[
       compiler-rt
